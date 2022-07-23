@@ -1,29 +1,37 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Yoshith Harshana",
+            "email": "e16127@eng.pdn.ac.lk",
+            "eNumber": "E/16/127"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Dumindu Karunarathne",
+            "email": "e16173@eng.pdn.ac.lk",
+            "eNumber": "E/16/173"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Tharushi Suwaris",
+            "email": "e16364@eng.pdn.ac.lk",
+            "eNumber": "E/16/364"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Dr. Asitha Bandaranayake",
+            "email": "asithab@eng.pdn.ac.lk"
         },
         {
-            "name": "Dr. Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Prof. Roshan Ragel",
+            "email": "roshanr@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Prof. Pradeepa Bandaranayake, Director, Agricultural Biotechnology Center, University of Peradeniya",
+            "email": "agbc@pdn.ac.lk"
+        },
+        {
+            "name": "Dr. Prabhath Gunathilake",
+            "email": "prabhathg@sci.pdn.ac.lk "
         }
     ],
     "media": [
