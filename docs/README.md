@@ -13,14 +13,16 @@ title:
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/16/364, Tharushi Suwaris, [email](e16364@eng.pdn.ac.lk)
+- E/16/173, Dumindu Karunarathne, [email](e16173@eng.pdn.ac.lk)
+- E/16/127, Yoshith Harshana, [email](e16127@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Asitha Bandaranayake, [email](asithab@eng.pdn.ac.lk)
+- Prof. Roshan Ragel, [email](roshanr@eng.pdn.ac.lk)
+- Prof. Pradeepa Bandaranayake, [email](agbc@pdn.ac.lk)
+- Dr. Prabhath Gunathilake, [email](prabhathg@sci.pdn.ac.lk)
 
 #### Table of content
 
