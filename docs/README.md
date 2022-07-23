@@ -2,14 +2,14 @@
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
+
 repository-name: e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity
 title: Smart Agriculture : Use of Computer Vision, ML and IoT to Improve Crop Productivity
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Smart Agriculture : Use of Computer Vision, ML and IoT to Improve Crop Productivity
 
 #### Team
 
