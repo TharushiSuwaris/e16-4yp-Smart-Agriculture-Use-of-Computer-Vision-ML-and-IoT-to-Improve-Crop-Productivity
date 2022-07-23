@@ -1,7 +1,9 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+Smart Agriculture: Use of Computer Vision, ML and IoT  to Improve Crop Productivity
 ___
 
-## Please refer the instructions in below URL:
+## The aim of the project
+
+The aim of the project
 
 https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
