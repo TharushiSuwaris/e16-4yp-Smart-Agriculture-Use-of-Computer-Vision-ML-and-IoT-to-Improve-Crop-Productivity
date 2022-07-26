@@ -4,7 +4,7 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: eYY-4yp-project-template
-title: Smart Agriculture : Use of Computer Vision, ML and IoT to Improve Crop Productivity
+title: 
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
