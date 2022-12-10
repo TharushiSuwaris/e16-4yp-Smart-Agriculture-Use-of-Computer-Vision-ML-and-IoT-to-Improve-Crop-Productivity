@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\ced_cam\zed-examples-master\camera control\cpp\build\CMakeFiles\7eda9c7b057d4823da0273342fa9d334\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6E87F6BB-5EBD-3B0C-94AA-61303EDD1718}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
