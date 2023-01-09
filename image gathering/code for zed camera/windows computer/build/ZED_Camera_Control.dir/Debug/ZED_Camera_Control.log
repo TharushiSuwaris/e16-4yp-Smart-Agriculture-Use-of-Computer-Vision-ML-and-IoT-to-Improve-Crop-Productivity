@@ -27,6 +27,10 @@ E:\ced_cam\zed-examples-master\camera control\cpp\src\main.cpp(174,128): warning
           [
               _Tp=int
           ]
-E:\ced_cam\zed-examples-master\camera control\cpp\src\main.cpp(327,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-E:\ced_cam\zed-examples-master\camera control\cpp\src\main.cpp(333,19): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  ZED_Camera_Control.vcxproj -> E:\ced_cam\zed-examples-master\camera control\cpp\build\Debug\ZED_Camera_Control.exe
+  LINK : E:\ced_cam\zed-examples-master\camera control\cpp\build\Debug\ZED_Camera_Control.exe not found or not built by the last incremental link; performing full link
+main.obj : error LNK2019: unresolved external symbol "void __cdecl updateCameraSettings(char,class sl::Camera &)" (?updateCameraSettings@@YAXDAEAVCamera@sl@@@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl switchCameraSettings(void)" (?switchCameraSettings@@YAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl printHelp(void)" (?printHelp@@YAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl print(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,enum sl::ERROR_CODE,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?print@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4ERROR_CODE@sl@@0@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl parseArgs(int,char * *,struct sl::InitParameters &)" (?parseArgs@@YAXHPEAPEADAEAUInitParameters@sl@@@Z) referenced in function main
+E:\ced_cam\zed-examples-master\camera control\cpp\build\Debug\ZED_Camera_Control.exe : fatal error LNK1120: 5 unresolved externals
