@@ -68,3 +68,21 @@ u9 = tf.keras.layers.concatenate([u9, c1])
 c9 = tf.keras.layers.Conv2D(16, (3,3), activation='relu', kernel_initializer='he_normal', padding='same')(u9)
 c9 = tf.keras.layers.Dropout(0.2)(c9)
 c9 = tf.keras.layers.Conv2D(16, (3,3), activation='relu', kernel_initializer='he_normal', padding='same')(c9)
+
+outputs = tf.keras.layers.Conv2D(1, (1,1), activation='sigmoid')(c9) 
+
+model= tf.keras.Model(inputs=[inputs], outputs=[outputs])
+model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+model.summary()
+
+
+#modelcheckpoint
+checkpoint =  tf.keras.callbacks.ModelCheckpoint('UNET_model.h5', monitor='val_loss', verbose=1)
+
+callbacks = [
+                tf.keras.callbacks.EarlyStopping(monitor='var_loss', patience=2),
+                tf.keras.callbacks.TensorBoard(log_dir='logs')
+            ] 
+
+
+results = model.fit(X, Y, batch_size=16, validation_split=0.1, epochs= 25, callbacks=callbacks)
