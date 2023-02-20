@@ -37,14 +37,16 @@ title:
 
 ---
 
-DELETE THIS SAMPLE before publishing to GitHub Pages !!!
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-![Sample Image](./images/sample.png)
-
 
 ## Abstract
+Agriculture is the main source of the world's food supply. It has been the backbone of civilizations for thousands of years. During recent decades, the focus of agriculture has shifted to producing crops in more controlled and optimal environments in order to increase the quality and quantity of the yield at lower costs to fulfill the massive food requirements of a continuously growing population. Modern smart greenhouses are buildings that are equipped with the latest IoT devices, environment control and monitoring systems and automated irrigation and fertilizer systems to provide optimal growth conditions for crops. The latest trend in smart agriculture is to incorporate computer vision and machine learning (ML) capabilities to predict and optimize existing cropping systems to maximize productivity. The research focus on reduce the harm cased by different diseased by introducing disease/anomaly detection and identification so that the earlies and the necessary actions can be taken.
 
 ## Related works
+- 0S. Poornima, S. Kavitha, S. Mohanavalli, N. Sripriya (2019) Detection and classification of diseases in plants using image processing and machine learning techniques, AIP Conference Proceedings 2095, 030018 (2019)
+- Rahman, Hidayat Ch, Manzoor N.J. , Najeeb S., Siddique F., Khan Y. M., Alam R. A. (2017) comparative analysis of machine learning approaches for plant disease identification, Advancements in Life Sciences, 4-4 120-126
+- Sequeira, R., Sebastian, R., Bunde, Y., Suryawanshi, U.,(2014)  International Journal of Science, Environment and Technology, Vol. 3, No 6, 2014, 2258 – 2268
+- Singh V. , Misra A.K. (2016) Detection of plant leaf diseases using image segmentation and soft computing techniques, Information Processing In Agriculture 4 (2017) 41–49
+- Barbedo J. G. A. , Koenigkana L. V. , Santos T. T. Identifying multiple plant diseases using digital image processing, Biosystems Engineering 147, July 2016, 104-116
 
 ## Methodology
 
