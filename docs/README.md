@@ -34,7 +34,7 @@ title:
 6. [Conclusion](#conclusion)
 7. [Publications](#publications)
 8. [Links](#links)
-
+9. [Summary](#summary)
 ---
 
 
@@ -77,3 +77,5 @@ Agriculture is the main source of the world's food supply. It has been the backb
 
 [//]: # "Please refer this to learn more about Markdown syntax"
 [//]: # "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+
+## Summary
