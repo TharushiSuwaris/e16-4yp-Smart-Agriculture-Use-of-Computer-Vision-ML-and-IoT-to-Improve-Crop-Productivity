@@ -49,12 +49,33 @@ Agriculture is the main source of the world's food supply. It has been the backb
 - Barbedo J. G. A. , Koenigkana L. V. , Santos T. T. Identifying multiple plant diseases using digital image processing, Biosystems Engineering 147, July 2016, 104-116
 
 ## Methodology
+By using computer vision techniques, solutions to address the following scenarios are to be done
+- Develop a disease detection system by analyzing the aerial data of the plant considering the phentyping characteristics
+- Develop a disease identification system by analysing the plant leaves separately by analyzing the features of the disease classes and develop a mobile application to be used the field.
+
+Apart form these main objectives, it is planned to observe some of the exsisting models performance on the system and to develop a local dataset.
 
 ## Experiment Setup and Implementation
 
+- Used tools such as Tensorflow 2, Numpy, Keras, CV2, Matplotlib, PIL
+- Models - Inception V3, Mask RCNN, CNN, UNET
+
+Data collection
+- Cameras : ZED, Smartphone 16MP
+
+The aerial data was collected using both the cameras, and the amount is 500 and 300 each. Plant leaves data were gathered with smartphone which included 400 images and those images were categorized after running sample tests in Horticultural Crop Reseasech and Development institute in Peradeniya. Then in order to develop more accurate solutions in the preprocessing phase, color calibration with backgroud removal was done alog with the annotation and categorisation of the data.
+
 ## Results and Analysis
+Disease Identification
+- CNN model accuracy: 87.5%
+- Inception V3 model accuracy : 80%
+
+Disease Detection
+- Mask Rcnn Model : 52% (ZED), 58%(Smartphone)
 
 ## Conclusion
+In conclusion, the custom CNN model which was developed from scratch gave the best results that can be applied to the real world application that is being developed, considering the disease identification phase.  
+Considering the disease detection phase, it leave the question of the robustuness due to the only anased feature was color variation and upto the depth the solution is useful in a real wolrd system. As a begining of this kind of an apprach, it was possible to achieve more that 50% of accuracy, and this can be further improved in future research. 
 
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
