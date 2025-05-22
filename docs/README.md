@@ -1,13 +1,4 @@
----
-layout: home
-permalink: index.html
 
-# Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title: 
----
-
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
 # Smart Agriculture : Use of Computer Vision, ML and IoT to Improve Crop Productivity
 
@@ -78,7 +69,9 @@ In conclusion, the custom CNN model which was developed from scratch gave the be
 Considering the disease detection phase, it leave the question of the robustuness due to the only anased feature was color variation and upto the depth the solution is useful in a real wolrd system. As a begining of this kind of an apprach, it was possible to achieve more that 50% of accuracy, and this can be further improved in future research. 
 
 ## Publications
-[//]: # "Note: Uncomment each once you uploaded the files to the repository"
+Abstract published in Perdeniya University International Research Sessions (iPURSE 2023).
+
+[Conference Proceedings - Volume 24, Page 252](https://site.pdn.ac.lk/ipurse/2023/docs/iPURSE%20Proceedings%202023.pdf) 
 
 <!-- 1. [Semester 7 report](./) -->
 <!-- 2. [Semester 7 slides](./) -->
